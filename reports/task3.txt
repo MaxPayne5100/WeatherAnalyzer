@@ -1,0 +1,2 @@
+The warmest day is 2020-12-10, with temperature 5.15 C
+The coldest day is 2020-12-07, with temperature -3.79 C
